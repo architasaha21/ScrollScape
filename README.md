@@ -1,8 +1,5 @@
 # ScrollScape
 ScrollScape is a smooth parallax scrolling experience crafted with pure HTML, CSS, and JavaScript. It's designed to demonstrate how motion and depth can transform simple web pages into immersive digital spaces.
-# 🚀 ScrollScape
-
-**ScrollScape** is a smooth and visually engaging parallax scrolling website built using pure **HTML**, **CSS**, and **JavaScript**. It's a lightweight, responsive, and aesthetic solution to add storytelling or dynamic visual flair to web projects.
 
 ## ✨ Features
 
